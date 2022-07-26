@@ -1,0 +1,1 @@
+{"version":3,"file":"css/main.css","mappings":"AAAA,MACI,SAAU,CACV,YAAa,CACb,8BACJ","sources":["webpack://y/./src/index.less"],"sourcesContent":[".test{\n    color: red;\n    display: flex;\n    transform: translate(50px, 60px);\n}"],"names":[],"sourceRoot":""}
